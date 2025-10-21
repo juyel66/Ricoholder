@@ -14,7 +14,6 @@ import Affiliates from "./Component/Affiliates";
 const Home = () => {
     return (
         <div>
-            <div>Hello world</div>
            <Banner />
            <FilterSystem />
            <SignatureCardContainer />
