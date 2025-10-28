@@ -116,7 +116,7 @@ const CalendarMonth: React.FC<CalendarMonthProps> = ({ monthDate }) => {
           const dayNumber = date.getDate();
 
           const baseClasses =
-            "flex items-center justify-center h-10 w-10 text-sm font-medium rounded-full cursor-pointer transition-colors duration-150";
+            "flex items-center justify-center h-10 w-10 text-sm font-medium rounded-xl cursor-pointer transition-colors duration-150";
 
           const statusClasses = isBooked
             ? "bg-red-100 text-red-700 hover:bg-red-200 border border-red-300"
