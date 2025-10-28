@@ -111,7 +111,7 @@ const TestimonialCard = ({ testimonial }) => {
 export default function GuestSlider() {
     return (
        
-        <div className="w-full h-[450px]  mt-10 flex flex-col">
+        <div className="w-full xl:pl-4 xl:pr-4 h-[450px]  mt-10 flex flex-col">
             
         
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex-shrink-0">
