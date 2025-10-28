@@ -9,7 +9,7 @@ const InspirationSection = () => {
       </h1>
 
 
-      <div className="relative h-screen  mt-10 max-h-[700px] w-full overflow-hidden">
+      <div className="relative h-screen  mt-10 max-h-[550px] w-full overflow-hidden">
         {/* 1. Background Video Element (Absolute position to fill container) */}
         <video
           className="absolute inset-0 w-full h-full object-cover"
