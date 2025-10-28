@@ -13,7 +13,7 @@ import Affiliates from "./Component/Affiliates";
 
 const Home = () => {
     return (
-        <div>
+        <div className="">
      <div 
          className="bg-white mt-26   pb-10  rounded-xl shadow-lg border border-gray-200 mx-auto  bg-cover bg-center bg-no-repeat"
       style={{
