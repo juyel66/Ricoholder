@@ -114,7 +114,7 @@ const  Sales = () => {
 
   return (
     <div style={backgroundImg} className="">
-      <div className="mb-10 mt-16 container mx-auto">
+      <div className="mb-10  container mx-auto">
         <FilterSystem />
       </div>
 
