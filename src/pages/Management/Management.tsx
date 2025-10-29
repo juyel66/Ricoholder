@@ -6,7 +6,7 @@ const Management = () => {
     <div
     
     >
-      <HeroSection className="mt-26 "
+      <HeroSection className=""
         title="Property Management, Perfected"
         subtitle="Emphasize luxury villas as assets, sanctuaries, reflections of taste."
         ctaLabel="Contact Our Team"
